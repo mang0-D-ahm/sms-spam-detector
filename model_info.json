@@ -1,0 +1,6 @@
+{
+    "model": "Logistic Regression",
+    "accuracy": 0.9748549323017408,
+    "roc_auc": 0.9933681621059572,
+    "test_samples": 1034
+}
